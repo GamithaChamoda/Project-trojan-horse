@@ -1,0 +1,18 @@
+body{
+    background-color: blueviolet;
+}
+#form{
+    background-color: aquamarine;
+    width: 25%;
+    margin: 120px auto;
+    padding: 50px;
+    box-shadow: 10px 10px 5px rgb(84, 11, 77);
+    border-radius: 6px;
+}
+#btn{
+    color: white;
+    background-color: rgb(160, 85, 230);
+    padding: 8px;
+    font-size: large;
+    border-radius: 10px;
+}
