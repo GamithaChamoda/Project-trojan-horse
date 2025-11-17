@@ -32,3 +32,7 @@ MySQL or any SQL database (Command/result storage)
 
 Usage
 Please review all code responsibly and ensure any testing is done within legal boundaries and controlled environments.
+
+Demo video:
+
+https://drive.google.com/file/d/10B14oha17LIWe6MmacbYV9JzFvrNqVpn/view?usp=sharing
